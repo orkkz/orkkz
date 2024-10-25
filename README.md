@@ -24,10 +24,10 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orkkz&show_icons=true&theme=dark&count_private=true)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=orkkz&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" width="500">> <!-- Replace 0 with your actual gists count -->
+
   <h2>📚 Top Languages</h2>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orkkz&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkkz&layout=compact&theme=dark" alt="Top Languages" width="500">
 </div>
 
 ---
