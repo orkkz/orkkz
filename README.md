@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>⭐Affan Orakzai⭐</h1>
+  <h1>⭐ Affan Orakzai ⭐</h1>
   <h3>🔍 About Me</h3>
   <p>📚 Currently learning web development and networking.</p>
   <p>🛡️ I can also do pentesting at an intermediate level.</p>
 </div>
+
+---
 
 <div align="center">
   <h2>🛠 Skills</h2>
@@ -21,6 +23,19 @@
 ---
 
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <a href="https://github.com/orkkz">
+    <img src="https://github-readme-stats.vercel.app/api?username=orkkz&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" width="500">
+  </a>
+  <p>![GitHub Logo](https://img.icons8.com/material-outlined/24/ffffff/github.png) <strong>Gists:</strong> ![Gists Count](https://img.shields.io/badge/Gists-!{GISTS_COUNT}-blue)</p>
+  
+  <h2>📚 Top Languages</h2>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orkkz&layout=compact&theme=dark)
+</div>
+
+---
+
+<div align="center">
   <h2>💡 Random Dev Quote</h2>
-  <img src="https://camo.githubusercontent.com/b998ad13945cb78d986f84b6bc817c250474c26ecdee8fa5f0c87c303806fb3e/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="Random Developer Quote">
+  <img src="https://i.imgur.com/8G8YzIc.png" alt="Random Developer Quote" width="500">
 </div>
