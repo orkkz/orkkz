@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Affan Orakzai</h1>
-  <p>🌍 Developer from Pakistan</p>
+  <h1>⭐ Affan Orakzai ⭐</h1>
 </div>
 
 ---
@@ -16,4 +15,11 @@
     <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
     <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white">
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>💡 Random Dev Quote</h2>
+  <img src="https://via.placeholder.com/500x100.png?text=“Talk+is+cheap.+Show+me+the+code.”+-+Linus+Torvalds" alt="Random Developer Quote" width="500">
 </div>
