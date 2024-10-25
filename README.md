@@ -21,5 +21,5 @@
 
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
-  <img src="https://via.placeholder.com/500x100.png?text=“Talk+is+cheap.+Show+me+the+code.”+-+Linus+Torvalds" alt="Random Developer Quote" width="500">
+  <img src="https://camo.githubusercontent.com/b998ad13945cb78d986f84b6bc817c250474c26ecdee8fa5f0c87c303806fb3e/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="Random Developer Quote">
 </div>
