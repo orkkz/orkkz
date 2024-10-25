@@ -2,8 +2,6 @@
   <h1>⭐ Affan Orakzai ⭐</h1>
 </div>
 
----
-
 <div align="center">
   <h2>🛠 Skills</h2>
   <p>
