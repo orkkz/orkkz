@@ -24,10 +24,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <a href="https://github.com/orkkz">
-    <img src="https://github-readme-stats.vercel.app/api?username=orkkz&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" width="500">
-  </a>
-  <p>![GitHub Logo](https://img.icons8.com/material-outlined/24/ffffff/github.png) <strong>Gists:</strong> ![Gists Count](https://img.shields.io/badge/Gists-!{GISTS_COUNT}-blue)</p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orkkz&show_icons=true&theme=dark&count_private=true)
   
   <h2>📚 Top Languages</h2>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orkkz&layout=compact&theme=dark)
