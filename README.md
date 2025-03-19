@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>⭐ Affan Orakzai ⭐</h1>
+  <h1>⭐ orkkz ⭐</h1>
   <h3>🔍 About Me</h3>
   <p>📚 Currently learning web development and networking.</p>
-  <p>🛡️ I can also do pentesting at an intermediate level.</p>
+  <p>🛡️ I can also pentest at an intermediate level.</p>
 </div>
 
 ---
