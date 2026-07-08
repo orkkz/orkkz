@@ -51,7 +51,7 @@ currently_building:
 
 
 <div align="center">
-<img src="assets/STATS.png" alt="Header" width="600"/>
+<img src="assets/STATS.png" alt="Header"/>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=orkkz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=FF4500&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
@@ -65,15 +65,15 @@ currently_building:
 <div align="center">
 <img src="assets/CONNET.png" alt="CONNET"/>
 <div align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/affanorakzai" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:me@affan.is-a.dev">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://ko-fi.com/YOUR-KOFI" target="_blank">
+<a href="https://ko-fi.com/affanorakzai" target="_blank">
   <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1b26" alt="Ko-fi"/>
 </a>
 </div>
