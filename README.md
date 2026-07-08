@@ -20,6 +20,8 @@
 
 <br/>
 
+![Header](assets/github-header-banner.png)
+
 ## 
 
 ```yaml
@@ -34,7 +36,7 @@ interests:
   - OSINT
 
 currently_building:
-  - Grandpa Harry — indie psychological horror game
+  - Grandpa Harry —  psychological horror game
   - Personal AI Agent 
 
 ```
