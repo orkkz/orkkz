@@ -66,21 +66,17 @@ currently_building:
 ![Header](assets/CONNET.png)
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=orkkz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=FF4500&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orkkz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orkkz&bg_color=0d1117&color=DC143C&line=FF4500&point=c9d1d9&area=true&area_color=DC143C&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+</div>
+<br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://ko-fi.com/YOUR-KOFI" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1b26" alt="Ko-fi"/>
-</a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500,8B0000&height=100&section=footer"/>
