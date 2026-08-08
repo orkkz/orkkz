@@ -22,7 +22,7 @@
 
 ![Header](assets/github-header-banner.png)
 <div align="center">
-<img src="assets/aboutme.png" alt="Header" width="600"/>
+<!-- <img src="assets/aboutme.png" alt="Header" width="600"/> -->
 </div>
 
 ```yaml
