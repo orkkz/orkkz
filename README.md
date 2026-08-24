@@ -1,7 +1,11 @@
 <div align="center">
+<img src="assets/me.svg" width="300" alt="Affan Orakzai, rendered as a dot matrix">
+</div>
+
+<div align="center">
 
 <!-- Header -->
-<img src="assets/me.svg" width="300" alt="Affan Orakzai, rendered as a dot matrix">
+
 
 <!-- Badges -->
 <a href="https://github.com/orkkz">
@@ -18,9 +22,9 @@
 
 </div>
 
-<!--<br/> !-->
+<!--<br/> 
 
-![Header](assets/github-header-banner.png)
+<!-- ![Header](assets/github-header-banner.png) !-->
 <div align="center">
 <!-- <img src="assets/aboutme.png" alt="Header" width="600"/> -->
 </div>
