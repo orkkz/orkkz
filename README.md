@@ -36,7 +36,7 @@
 ```yaml
 name: Affan Orakzai
 located_in: Sialkot, Pakistan
-role: Self taught Full Stack Developer
+role: Machine Learning Engineer & Full Stack Developer
 
 interests:
   - Web Development (React, Typescript, TailsWindCSS)
