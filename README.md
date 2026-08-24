@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Affan&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Automation%20%26%20QA&descAlignY=60&descSize=20" width="100%"/>
+<img src="assets/me.svg" width="300" alt="Affan Orakzai, rendered as a dot matrix">
 
 <!-- Badges -->
 <a href="https://github.com/orkkz">
