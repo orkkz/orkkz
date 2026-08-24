@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/me.svg" width="300" alt="Affan Orakzai, rendered as a dot matrix">
+<img src="assets/me.svg" width="400" alt="Affan Orakzai, rendered as a dot matrix">
 </div>
 
 <div align="center">
